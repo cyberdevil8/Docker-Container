@@ -11,7 +11,9 @@ Step 1 — Installing Your Application Dependencies
 1. mkdir node_project
 2. cd node_project
 3. create package.json
-   package.json is already is available in Docker-container folder.
+
+   "package.json" is already is available in Docker-container folder.
+   
 4. npm install
 
 
